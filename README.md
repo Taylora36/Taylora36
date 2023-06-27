@@ -14,7 +14,7 @@ Hi! I'm Taylor, a software developer looking for full-stack or frontend develper
 - :telescope:  HTML/CSS, Bootstrap, JavaScript, ReactJS, Python, Flask, SQLAlchemy
 - :computer: Currently working on: A ReactJS application using a 3rd-party API with authentication systems
 - :seedling: Learning now: Strengthening my skills in JavaScript
-- :earth_americas: 2023 goals: Improve my skills on backend development
+- :earth_americas: 2023 goals: Learn C+
 - :zap: Fun fact: I used to teach Karate
 
 ### :hammer_and_wrench: Languages and Tools
